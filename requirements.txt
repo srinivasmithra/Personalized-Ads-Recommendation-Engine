@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+pexels-api-py
+pymongo
+requests
+torch
+transformers
+sentence-transformers
+streamlit
+python-jose[cryptography]
+passlib[bcrypt]
+scikit-learn
+faiss-cpu
+
